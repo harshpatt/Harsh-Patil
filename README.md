@@ -40,6 +40,6 @@ VER–PIA pace delta 0.628s/lap. 7 visualizations.
 
 ## Looking For
 
-Praxissemester Sept 2026 — AI, data, or fintech roles
+Praxissemester Sept 2026 AI, data, Energy, or fintech roles
 
 📧 harshavardhan.patil@proton.me
